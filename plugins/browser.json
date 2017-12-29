@@ -1,0 +1,28 @@
+{
+  "prepare_queue": {
+    "installed": [],
+    "uninstalled": []
+  },
+  "config_munge": {
+    "files": {}
+  },
+  "installed_plugins": {
+    "cordova-plugin-camera": {
+      "PACKAGE_NAME": "com.stl.photosharer"
+    },
+    "cordova-plugin-crosswalk-webview": {
+      "PACKAGE_NAME": "com.stl.photosharer"
+    },
+    "cordova-plugin-whitelist": {
+      "PACKAGE_NAME": "com.stl.photosharer"
+    },
+    "cordova-plugin-x-socialsharing": {
+      "PACKAGE_NAME": "com.stl.photosharer"
+    }
+  },
+  "dependent_plugins": {
+    "es6-promise-plugin": {
+      "PACKAGE_NAME": "com.stl.photosharer"
+    }
+  }
+}
